@@ -1,0 +1,5 @@
+C:\Users\nenas\source\repos\train\train\obj\Debug\net5.0\train.csproj.AssemblyReference.cache
+C:\Users\nenas\source\repos\train\train\obj\Debug\net5.0\train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nenas\source\repos\train\train\obj\Debug\net5.0\train.AssemblyInfoInputs.cache
+C:\Users\nenas\source\repos\train\train\obj\Debug\net5.0\train.AssemblyInfo.cs
+C:\Users\nenas\source\repos\train\train\obj\Debug\net5.0\train.csproj.CoreCompileInputs.cache
